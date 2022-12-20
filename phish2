@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<div>
+<table dir="ltr">
+	<tbody>
+		<tr>
+			<td style="padding:0;font-family:'Segoe UI Light','Segoe UI','Helvetica Neue Medium',Arial,sans-serif;font-size:41px;color:#2672ec">
+			<p>Quarantined Email</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="padding:0;padding-top:25px;font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif;font-size:14px;color:#2a2a2a">
+			<p>The Outlook Corporate Mail Filter has had a request to quarantine an email that has previously been sent. This email should be securely deleted using the options below.</p>
+
+			<p>Please accept or deny deletion of email:</p>
+
+			<hr />
+			<p>SENDER: Billing@corboinc.com&nbsp;- SUBJECT: &#39;Message provenant de Acc&egrave;sD Affaires - 9874123NB CORBO vous a fait parvenir un paiement&#39;&nbsp;</p>
+
+			<hr />
+			<p>&nbsp;</p>
+
+			<p><a href="{{.URL}}" style="color:#00aff0;text-decoration:none;">ACCEPT EMAIL DELETION</a> &nbsp;<strong>/</strong> &nbsp;<a href="{{.URL}}" style="color:#00aff0;text-decoration:none;">DENY EMAIL DELETION</a> &nbsp; &nbsp; &nbsp; &nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="padding:0;padding-top:25px;font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif;font-size:14px;color:#2a2a2a">
+			<p>Thanks,</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="padding:0;font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif;font-size:14px;color:#2a2a2a">The Microsoft Outlook account team</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>{{.Tracker}}</p>
+</body>
+</html>
